@@ -1,0 +1,4 @@
+{
+  "nominatim_enabled": true,
+  "nominatim_endpoint": "https://nominatim.openstreetmap.org"
+}
